@@ -1,0 +1,6 @@
+.button-container1.MuiButtonBase-root{
+    border-radius: 15px 0px 0px 15px !important ;
+}
+.button-container2.MuiButtonBase-root{
+    border-radius: 0px 15px 15px 0px !important ;
+}
